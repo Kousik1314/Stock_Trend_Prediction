@@ -2,6 +2,8 @@
 
 This project is a stock trend prediction application that uses a **Long Short-Term Memory (LSTM)** neural network. The application is built with Streamlit, making it a user-friendly, interactive web tool.
 
+### [Live Link](https://stocktrendprediction-at9ohionkfto3sl98kxbvc.streamlit.app/)
+
 ### Features
 
   * **Data Retrieval**: Downloads historical stock data from Yahoo Finance for any given stock ticker.
